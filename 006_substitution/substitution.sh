@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/bash
+#!/bin/bash
 
 # $(cmd) - executes shell command
 time=$(date +%H:%m:%S)
